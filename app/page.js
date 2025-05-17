@@ -13,7 +13,7 @@ export default function Home() {
         <div className="flex justify-center mb-6 sm:mb-8">
           <div className="relative w-32 h-32 sm:w-48 sm:h-48">
             <Image
-              src="/logo.png"
+              src="/logo.jpg"
               alt="Logo Reciclaje Inteligente"
               fill
               className="rounded-full shadow-lg object-cover"

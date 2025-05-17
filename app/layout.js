@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'EcoSight AI',
+  title: 'Binova AI',
   description: 'Detector de reciclaje inteligente',
 }
 
@@ -12,6 +12,6 @@ export default function RootLayout({ children }) {
       <body>
         <div suppressHydrationWarning={true}>{children}</div>
       </body>
-    </html>
-  )
+ </html>
+)
 }
